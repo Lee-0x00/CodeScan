@@ -1,0 +1,10 @@
+PyMySQL
+gevent
+requests
+splinter
+dnspython
+html5lib
+lxml
+selenium
+bs4
+pyvirtualdisplay
